@@ -1,2 +1,2 @@
 # Text-Mining-using-binary-classification-for-Women-s-E-Commerce-Clothing-Reviews-dataset
-building a text mining model using classification for a Women's E-Commerce Clothing Reviews dataset and creating a text generation model to generate text descriptions of clothing items.
+building a text mining Prediction model using Logistics, Naive bayes ans Decision Tree for a Women's E-Commerce Clothing Reviews dataset
